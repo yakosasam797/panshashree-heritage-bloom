@@ -105,7 +105,7 @@ const Testimonials = () => {
     },
     {
       question: "How do I place an order?",
-      answer: "You can order by calling us at +91 98765 43210, sending a WhatsApp message, or filling out the contact form on our website. We'll confirm your order, provide payment details, and arrange delivery to your address. Our team is always happy to help you choose the right product for your needs.",
+      answer: "You can order by calling us at +91 95916 22649, sending a WhatsApp message, or filling out the contact form on our website. We'll confirm your order, provide payment details, and arrange delivery to your address. Our team is always happy to help you choose the right product for your needs.",
     },
     {
       question: "What is the shelf life of your coconut oil?",

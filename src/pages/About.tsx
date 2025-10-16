@@ -32,43 +32,44 @@ const About = () => {
       <section className="py-16 sm:py-24 bg-card">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-2xl text-foreground leading-relaxed mb-8 font-heading">
-            In the heart of Kerala, where coconut palms sway in the tropical breeze and tradition runs as deep 
-            as the monsoon rains, Panshashree was born from a simple yet profound belief: the best things in 
-            life cannot be rushed.
+            In the serene coastal region of Karavali, Mangaluru, where coconut palms sway in the sea breeze and 
+            tradition flows through every generation, Panchashree was born from a simple yet profound belief: 
+            authentic quality cannot be compromised.
           </p>
 
           <div className="space-y-6 text-lg text-muted-foreground leading-relaxed">
             <p>
-              Our journey began over five decades ago, when our founder, inspired by his grandmother's traditional 
-              oil-making methods, decided to preserve this dying art. In an era when industrial production was 
-              becoming the norm, he chose the path less traveled—the path of patience, purity, and tradition.
+              Founded in 2013, Panchashree Coconut Oil has been dedicated to delivering the finest quality coconut oil 
+              crafted with care and tradition. Our journey began in Mundaje, Belthangady, in the heart of Dakshina Kannada 
+              district, with a mission to bring the purest form of coconut oil to households across India.
             </p>
 
             <p>
-              The small wooden press that started our legacy still stands in our facility today, a testament to 
-              our commitment to authentic, cold-pressed coconut oil. Generation after generation, we've passed 
-              down not just recipes, but values: respect for nature, dedication to quality, and an unwavering 
-              commitment to our customers.
+              We blend time-honored production methods practiced in the coastal Karavali region with modern standards 
+              of quality and hygiene. Our commitment has always been clear: preserve the authentic tradition of 
+              cold-pressed coconut oil making while maintaining the highest standards of purity and safety.
             </p>
 
             <div className="bg-accent/10 border-l-4 border-accent p-8 my-12 rounded-r-lg">
               <p className="text-2xl text-foreground italic font-heading leading-relaxed">
-                "True quality is not an act, it is a habit. In every drop of oil we create, you'll find 
-                the patience of our ancestors and the purity of Kerala's blessed land."
+                "At Panchashree, we pride ourselves on preserving the heritage of traditional coconut oil production. 
+                Based in the serene Karavali region of Mangaluru, we craft pure, unrefined coconut oil using techniques 
+                that respect nature and celebrate the culture of coastal Karnataka."
               </p>
-              <p className="text-right text-muted-foreground mt-4">— Founder's Philosophy</p>
+              <p className="text-right text-muted-foreground mt-4">— Our Philosophy</p>
             </div>
 
             <p>
-              Today, Panshashree serves over a thousand families across India, but our method remains unchanged. 
-              We still handpick coconuts at the perfect stage of maturity. We still sun-dry them using the warmth 
-              of Kerala's golden rays. And we still cold-press every batch without the use of heat or chemicals, 
-              ensuring that nature's goodness reaches you exactly as it was meant to be.
+              At Panchashree, we take pride in sourcing premium coconuts from trusted farms and processing them with 
+              precision to retain their natural aroma, flavor, and nutritional benefits. We handpick coconuts at the 
+              perfect stage of maturity, sun-dry them using the warmth of Karnataka's coastal sun, and cold-press 
+              every batch without heat or chemicals.
             </p>
 
             <p>
-              Our story is not just about coconut oil. It's about preserving a way of life, honoring the wisdom 
-              of our ancestors, and sharing the gift of authentic, traditional wellness with every family we serve.
+              Over the years, we have become a trusted name for health-conscious families, offering coconut oil that 
+              is versatile for cooking, skincare, and haircare. Our story is about preserving traditional coastal wisdom, 
+              maintaining unwavering quality standards, and sharing the gift of authentic wellness with every family we serve.
             </p>
           </div>
         </div>
@@ -80,27 +81,28 @@ const About = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl font-bold mb-6 font-heading text-foreground">
-                The Land That Gives Us Liquid Gold
+                The Karavali Region: Where Tradition Meets Quality
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Kerala, God's Own Country, is blessed with the perfect climate for coconut cultivation. The tropical 
-                  weather, rich red soil, and abundant rainfall create an environment where coconut palms don't just 
-                  grow—they thrive.
+                  The Karavali coastal region of Mangaluru, in Dakshina Kannada district, is blessed with the perfect 
+                  climate for coconut cultivation. The tropical coastal weather, laterite-rich red soil, and abundant 
+                  monsoon rainfall create an environment where coconut palms don't just grow—they thrive with exceptional 
+                  oil content.
                 </p>
                 <p>
-                  Our coconuts come from traditional groves that have been nurtured by local farmers for generations. 
-                  These aren't commercial plantations but family-owned lands where each tree is known by name, where 
-                  sustainable farming is a way of life, not a marketing term.
+                  Our coconuts come from trusted farms in Mundaje, Belthangady, and surrounding areas where farmers have 
+                  been cultivating coconuts for generations. These aren't commercial plantations but carefully managed groves 
+                  where sustainable farming is a way of life, passed down through families.
                 </p>
                 <p>
-                  The unique coastal climate of this region produces coconuts with higher oil content and richer 
-                  nutritional profiles. The combination of sea breeze, laterite soil, and traditional farming methods 
-                  creates coconuts that are simply superior in quality.
+                  The unique coastal climate of the Karavali region produces coconuts with higher oil content and richer 
+                  nutritional profiles. The combination of sea breeze, mineral-rich laterite soil, and traditional farming 
+                  methods creates coconuts that are simply superior in quality and flavor.
                 </p>
                 <p>
-                  When you choose Panshashree, you're not just choosing coconut oil—you're choosing the essence of 
-                  Kerala's agricultural heritage, captured in every golden drop.
+                  When you choose Panchashree, you're not just choosing coconut oil—you're choosing the essence of 
+                  coastal Karnataka's agricultural heritage, captured in every golden drop.
                 </p>
               </div>
             </div>
@@ -127,10 +129,10 @@ const About = () => {
                 </div>
                 <h3 className="text-2xl font-bold mb-4 font-heading text-foreground">Our Mission</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  To preserve and share the authentic tradition of cold-pressed coconut oil making, ensuring that 
-                  every family experiences the pure, natural goodness that our ancestors cherished. We are committed 
-                  to maintaining the highest standards of quality while supporting sustainable farming practices and 
-                  local communities.
+                  To deliver the finest quality coconut oil by preserving traditional coastal methods while meeting 
+                  modern quality standards. We are committed to ensuring every family experiences pure, natural goodness 
+                  through our carefully crafted oil. We support sustainable farming practices and maintain the highest 
+                  standards of hygiene and authenticity in everything we do.
                 </p>
               </CardContent>
             </Card>
@@ -156,9 +158,10 @@ const About = () => {
                 </div>
                 <h3 className="text-2xl font-bold mb-4 font-heading text-foreground">Our Promise</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Every bottle of Panshashree coconut oil is our promise to you: 100% pure, cold-pressed, and free 
-                  from any chemicals or additives. We promise to continue the traditions that have defined us for 
-                  over 50 years, bringing you the same quality our grandparents would have been proud to serve.
+                  Every bottle of Panchashree coconut oil is our promise to you: 100% pure, cold-pressed, and free 
+                  from any chemicals or additives. We promise to maintain the traditional coastal methods that ensure 
+                  superior quality, bringing you coconut oil that preserves its natural aroma, flavor, and nutritional 
+                  benefits—perfect for cooking, skincare, and haircare.
                 </p>
               </CardContent>
             </Card>
@@ -175,29 +178,29 @@ const About = () => {
           <div className="space-y-12">
             {[
               {
-                year: "1970",
-                title: "The Beginning",
-                description: "Founded with a single traditional wooden press and a vision to preserve authentic coconut oil making.",
-              },
-              {
-                year: "1985",
-                title: "Growing Roots",
-                description: "Expanded to serve 100 families across Kerala while maintaining our traditional methods.",
-              },
-              {
-                year: "2000",
-                title: "Next Generation",
-                description: "Second generation takes over, bringing modern hygiene standards while preserving traditional techniques.",
+                year: "2013",
+                title: "The Foundation",
+                description: "Panchashree Coconut Oil established in Mundaje, Belthangady, with a vision to deliver pure, traditionally-made coconut oil to health-conscious families.",
               },
               {
                 year: "2015",
-                title: "National Recognition",
-                description: "Panshashree becomes a trusted name across India, serving over 1000 families.",
+                title: "Building Trust",
+                description: "Expanded reach across Dakshina Kannada district, earning trust through consistent quality and authentic traditional methods.",
               },
               {
-                year: "2024",
-                title: "Heritage Continues",
-                description: "Celebrating over 50 years of tradition, purity, and unwavering commitment to quality.",
+                year: "2018",
+                title: "Regional Recognition",
+                description: "Became a recognized name in coastal Karnataka for pure cold-pressed coconut oil, serving hundreds of satisfied families.",
+              },
+              {
+                year: "2021",
+                title: "Modern Standards",
+                description: "Upgraded facility with modern hygiene standards while preserving traditional coastal processing methods.",
+              },
+              {
+                year: "2025",
+                title: "Growing Legacy",
+                description: "Continuing our commitment to purity, tradition, and quality—bringing the finest coconut oil from Karavali to families across India.",
               },
             ].map((milestone, index) => (
               <div key={milestone.year} className="flex gap-8 items-start">

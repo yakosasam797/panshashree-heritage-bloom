@@ -29,8 +29,8 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-sm text-primary-foreground/80 leading-relaxed">
-              Traditional cold-pressed coconut oil crafted with methods passed down through generations. 
-              Pure, natural, and chemical-free.
+              Traditional cold-pressed coconut oil crafted with care in the coastal Karavali region. 
+              Pure, natural, and chemical-free since 2013.
             </p>
           </div>
 
@@ -55,14 +55,11 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-bold font-heading mb-4">Contact Info</h3>
             <ul className="space-y-3">
-              <li className="flex items-start gap-3">
+               <li className="flex items-start gap-3">
                 <Phone className="w-5 h-5 text-accent flex-shrink-0 mt-0.5" />
                 <div>
-                  <a href="tel:+919876543210" className="text-sm text-primary-foreground/80 hover:text-accent smooth-transition block">
-                    +91 98765 43210
-                  </a>
-                  <a href="tel:+919876543211" className="text-sm text-primary-foreground/80 hover:text-accent smooth-transition block">
-                    +91 98765 43211
+                  <a href="tel:+919591622649" className="text-sm text-primary-foreground/80 hover:text-accent smooth-transition block">
+                    +91 95916 22649
                   </a>
                 </div>
               </li>
@@ -78,8 +75,8 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-accent flex-shrink-0 mt-0.5" />
                 <p className="text-sm text-primary-foreground/80">
-                  Traditional Mill, Coconut Grove Village,<br />
-                  Kerala, India - 682001
+                  Mundaje Post, Belthangady (tq),<br />
+                  Dakshina Kannada (dist), Karnataka
                 </p>
               </li>
             </ul>
@@ -97,7 +94,7 @@ const Footer = () => {
               </div>
             </div>
             <a
-              href="https://wa.me/919876543210?text=Hi%2C%20I'm%20interested%20in%20Panshashree%20coconut%20oil.%20I'd%20like%20to%20know%20more%20about..."
+              href="https://wa.me/919591622649?text=Hi%2C%20I'm%20interested%20in%20Panchashree%20coconut%20oil.%20I'd%20like%20to%20know%20more%20about..."
               target="_blank"
               rel="noopener noreferrer"
             >

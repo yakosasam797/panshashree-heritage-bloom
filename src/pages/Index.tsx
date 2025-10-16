@@ -6,43 +6,35 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import heroImage from "@/assets/hero-traditional-mill.jpg";
 import productBottles from "@/assets/product-bottles.jpg";
+import product500ml from "@/assets/product-500ml.jpg";
 import traditionalProcess from "@/assets/traditional-process.jpg";
 const Index = () => {
   const products = [{
-    name: "Premium Cold-Pressed Coconut Oil",
-    description: "Our flagship product, crafted using traditional methods passed down through generations.",
+    name: "Coconut Oil - 250ml",
+    description: "Pure cold-pressed coconut oil perfect for cooking, skin care, and hair nourishment. Ideal for trying our quality.",
     sizes: [{
       size: "250ml",
-      price: "₹250"
-    }, {
-      size: "500ml",
-      price: "₹480"
+      price: "Contact for Price"
     }],
-    features: ["Cold-pressed", "Chemical-free", "Traditional method", "No preservatives"],
+    features: ["Cold-pressed", "Chemical-free", "Traditional coastal method", "No preservatives"],
     image: productBottles
   }, {
-    name: "Virgin Coconut Oil",
-    description: "Extra virgin coconut oil extracted from fresh coconut meat, perfect for cooking and wellness.",
+    name: "Coconut Oil - 500ml",
+    description: "Our most popular size, offering the perfect balance of quality and value for regular family use.",
     sizes: [{
-      size: "250ml",
-      price: "₹280"
-    }, {
       size: "500ml",
-      price: "₹540"
+      price: "Contact for Price"
     }],
-    features: ["Cold-pressed", "Chemical-free", "Traditional method", "No preservatives"],
-    image: productBottles
+    features: ["Cold-pressed", "Chemical-free", "Traditional coastal method", "No preservatives"],
+    image: product500ml
   }, {
-    name: "Hair Care Coconut Oil",
-    description: "Specially crafted for hair nourishment, enriched with traditional herbs.",
+    name: "Coconut Oil - 1 Litre",
+    description: "Best value for families who appreciate authentic coconut oil. Economical packaging for extended use.",
     sizes: [{
-      size: "200ml",
-      price: "₹220"
-    }, {
-      size: "400ml",
-      price: "₹420"
+      size: "1 Litre",
+      price: "Contact for Price"
     }],
-    features: ["Cold-pressed", "Chemical-free", "Traditional method", "No preservatives"],
+    features: ["Cold-pressed", "Chemical-free", "Traditional coastal method", "No preservatives"],
     image: productBottles
   }];
   const features = [{
@@ -98,7 +90,7 @@ const Index = () => {
             Rooted in Tradition, Perfected Over Time
           </p>
           <p className="text-xl text-white/90 mb-12 max-w-3xl mx-auto">
-            Discover the golden essence of traditional cold-pressed coconut oil, crafted with care in the heart of Kerala
+            Discover the golden essence of traditional cold-pressed coconut oil, crafted with care in the coastal Karavali region of Mangaluru
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link to="/products">
@@ -132,17 +124,20 @@ const Index = () => {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  For over 50 years, Panshashree has been the guardian of traditional coconut oil making in Kerala. 
-                  Our story began in a small village, where our founder discovered the perfect balance between ancient wisdom 
-                  and natural purity.
+                  Founded in 2013, Panchashree Coconut Oil has been dedicated to delivering the finest quality coconut oil 
+                  crafted with care and tradition. Our journey began in Mundaje, Belthangady, with a mission to bring the 
+                  purest form of coconut oil to households, blending time-honored coastal production methods with modern 
+                  standards of quality.
                 </p>
                 <p>
-                  Every drop of Panshashree coconut oil carries the essence of our heritage—cold-pressed using traditional methods, 
-                  free from chemicals, and rich with the natural goodness that only time-honored practices can deliver.
+                  At Panchashree, we take pride in sourcing premium coconuts from trusted farms in the Karavali region 
+                  and processing them with precision to retain their natural aroma, flavor, and nutritional benefits. 
+                  Every drop is cold-pressed using traditional methods, free from chemicals, and rich with natural goodness.
                 </p>
                 <p>
-                  We believe that the best things in life cannot be rushed. That's why we continue to follow the same 
-                  careful process our ancestors perfected generations ago.
+                  Over the years, we have become a trusted name for health-conscious families, offering coconut oil that 
+                  is versatile for cooking, skincare, and haircare. We believe in quality, authenticity, and preserving 
+                  the traditional methods that make our oil truly exceptional.
                 </p>
               </div>
               <Link to="/about">
@@ -156,8 +151,8 @@ const Index = () => {
           {/* Stats */}
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mt-16">
             {[{
-            value: "50+",
-            label: "Years of Heritage"
+            value: "2013",
+            label: "Established"
           }, {
             value: "100%",
             label: "Natural & Pure"
@@ -165,8 +160,8 @@ const Index = () => {
             value: "0",
             label: "Chemicals Added"
           }, {
-            value: "1000+",
-            label: "Happy Families"
+            value: "Traditional",
+            label: "Coastal Methods"
           }].map(stat => <Card key={stat.label} className="bg-secondary hover-lift">
                 <CardContent className="p-8 text-center">
                   <div className="text-4xl font-bold text-accent mb-2 font-heading">{stat.value}</div>
@@ -310,21 +305,21 @@ const Index = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">
             <div className="p-6 bg-secondary rounded-xl">
               <div className="text-2xl font-bold text-accent mb-2 font-heading">📞 Call Us</div>
-              <a href="tel:+919876543210" className="text-foreground hover:text-accent smooth-transition">
-                +91 98765 43210
+              <a href="tel:+919591622649" className="text-foreground hover:text-accent smooth-transition">
+                +91 95916 22649
               </a>
             </div>
             <div className="p-6 bg-secondary rounded-xl">
               <div className="text-2xl font-bold text-success mb-2 font-heading">💬 WhatsApp</div>
-              <a href="https://wa.me/919876543210?text=Hi%2C%20I'm%20interested%20in%20Panshashree%20coconut%20oil.%20I'd%20like%20to%20know%20more%20about..." target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-success smooth-transition">
+              <a href="https://wa.me/919591622649?text=Hi%2C%20I'm%20interested%20in%20Panchashree%20coconut%20oil.%20I'd%20like%20to%20know%20more%20about..." target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-success smooth-transition">
                 Chat Now
               </a>
             </div>
             <div className="p-6 bg-secondary rounded-xl">
-              <div className="text-2xl font-bold text-accent mb-2 font-heading">✉️ Email</div>
-              <a href="mailto:info@panshashree.com" className="text-foreground hover:text-accent smooth-transition">
-                info@panshashree.com
-              </a>
+              <div className="text-2xl font-bold text-accent mb-2 font-heading">📍 Location</div>
+              <p className="text-foreground">
+                Mundaje, Belthangady
+              </p>
             </div>
           </div>
         </div>

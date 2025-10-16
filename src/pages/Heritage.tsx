@@ -101,28 +101,30 @@ const Heritage = () => {
             </div>
             <div>
               <h2 className="text-4xl font-bold mb-6 font-heading text-foreground">
-                Kerala: The Cradle of Coconut Culture
+                The Karavali Coast: Where Tradition Meets Quality
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Kerala's name itself is believed to derive from "Kera" (coconut) and "Alam" (land)—literally, 
-                  the land of coconuts. This small state on India's southwestern coast produces over 40% of the 
-                  nation's coconut oil, a testament to its ideal growing conditions and generations of expertise.
+                  The Karavali coastal region of Mangaluru, in Dakshina Kannada district of Karnataka, is blessed with 
+                  perfect conditions for coconut cultivation. The tropical coastal climate, laterite-rich red soil, and 
+                  abundant monsoon rainfall create an environment where coconut palms thrive with exceptional oil content 
+                  and nutritional density.
                 </p>
                 <p>
-                  The unique microclimate of Kerala—abundant monsoon rains, coastal humidity, and laterite soil 
-                  rich in minerals—creates perfect conditions for coconut cultivation. The coconut palms here 
-                  grow taller, produce larger nuts, and yield oil with exceptional nutritional density.
+                  Panchashree's oil comes from traditional family groves in Mundaje, Belthangady, and surrounding areas 
+                  where coconut cultivation is not just agriculture—it's a heritage. These farmers don't just grow coconuts; 
+                  they nurture each tree, understanding its rhythms and needs through generations of intimate knowledge passed 
+                  down through families.
                 </p>
                 <p>
-                  Panshashree's oil comes from traditional family groves where coconut cultivation is not just 
-                  agriculture—it's a heritage. These farmers don't just grow coconuts; they nurture each tree, 
-                  understanding its rhythms and needs through generations of intimate knowledge.
+                  The specific varieties of coconuts grown in our Karavali region—adapted over centuries to the coastal 
+                  microclimate—produce coconuts with higher oil content and richer nutritional profiles. Each variety 
+                  contributes unique characteristics to our oil's authentic flavor, golden color, and health benefits.
                 </p>
                 <p>
-                  The specific varieties of coconuts grown in our region—tall varieties like West Coast Tall and 
-                  dwarf varieties like Chowghat Orange Dwarf—have been cultivated and perfected over centuries. 
-                  Each variety contributes unique characteristics to our oil's flavor and nutritional profile.
+                  The combination of sea breeze, mineral-rich laterite soil, and traditional sustainable farming methods 
+                  creates coconuts that are simply superior in quality. When you choose Panchashree, you're experiencing 
+                  the essence of coastal Karnataka's agricultural heritage, captured in every golden drop.
                 </p>
               </div>
             </div>

@@ -52,12 +52,10 @@ const Contact = () => {
                         <SelectValue placeholder="Select a product" />
                       </SelectTrigger>
                       <SelectContent>
-                        <SelectItem value="premium">Premium Cold-Pressed Oil</SelectItem>
-                        <SelectItem value="virgin">Virgin Coconut Oil</SelectItem>
-                        <SelectItem value="haircare">Hair Care Oil</SelectItem>
-                        <SelectItem value="cooking">Cooking Oil (Economy)</SelectItem>
-                        <SelectItem value="wellness">Wellness Oil</SelectItem>
-                        <SelectItem value="gift">Gift Set</SelectItem>
+                        <SelectItem value="250ml">Coconut Oil - 250ml</SelectItem>
+                        <SelectItem value="500ml">Coconut Oil - 500ml</SelectItem>
+                        <SelectItem value="1litre">Coconut Oil - 1 Litre</SelectItem>
+                        <SelectItem value="bulk">Bulk Order Inquiry</SelectItem>
                       </SelectContent>
                     </Select>
                   </div>
@@ -75,8 +73,9 @@ const Contact = () => {
                 <CardContent className="p-8">
                   <Phone className="w-12 h-12 text-accent mb-4" />
                   <h3 className="text-2xl font-bold mb-4 font-heading text-foreground">Call Us</h3>
-                  <a href="tel:+919876543210" className="block text-lg text-muted-foreground hover:text-accent mb-2">+91 98765 43210</a>
-                  <a href="tel:+919876543211" className="block text-lg text-muted-foreground hover:text-accent">+91 98765 43211</a>
+                  <a href="tel:+919591622649" className="block text-lg text-muted-foreground hover:text-accent">
+                    +91 95916 22649
+                  </a>
                 </CardContent>
               </Card>
 
@@ -92,7 +91,11 @@ const Contact = () => {
                 <CardContent className="p-8">
                   <MapPin className="w-12 h-12 text-accent mb-4" />
                   <h3 className="text-2xl font-bold mb-4 font-heading text-foreground">Visit Us</h3>
-                  <p className="text-muted-foreground">Traditional Mill, Coconut Grove Village<br />Kerala, India - 682001</p>
+                  <p className="text-muted-foreground">
+                    Mundaje Post, Belthangady (tq)<br />
+                    Dakshina Kannada (dist)<br />
+                    Karnataka, India
+                  </p>
                 </CardContent>
               </Card>
 
@@ -100,8 +103,8 @@ const Contact = () => {
                 <CardContent className="p-8">
                   <Clock className="w-12 h-12 text-accent mb-4" />
                   <h3 className="text-2xl font-bold mb-4 font-heading text-foreground">Business Hours</h3>
-                  <p className="text-muted-foreground">Monday - Saturday: 9:00 AM - 6:00 PM<br />Sunday: Closed</p>
-                  <a href="https://wa.me/919876543210?text=Hi%2C%20I'm%20interested%20in%20Panshashree%20coconut%20oil.%20I'd%20like%20to%20know%20more%20about..." target="_blank" rel="noopener noreferrer" className="mt-4 block">
+                  <p className="text-muted-foreground mb-4">Monday - Saturday: 9:00 AM - 6:00 PM<br />Sunday: Closed</p>
+                  <a href="https://wa.me/919591622649?text=Hi%2C%20I'm%20interested%20in%20Panchashree%20coconut%20oil.%20I'd%20like%20to%20know%20more%20about..." target="_blank" rel="noopener noreferrer" className="block">
                     <Button variant="whatsapp" className="w-full">Chat on WhatsApp</Button>
                   </a>
                 </CardContent>
