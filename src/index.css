@@ -8,53 +8,53 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    /* Warm cream background */
-    --background: 35 45% 90%;
-    --foreground: 20 60% 10%;
+    /* Minimal neutral background */
+    --background: 30 15% 96%;
+    --foreground: 25 30% 15%;
 
-    /* Card styles - white */
+    /* Card styles - pure white */
     --card: 0 0% 100%;
-    --card-foreground: 20 60% 10%;
+    --card-foreground: 25 30% 15%;
 
     /* Popover */
     --popover: 0 0% 100%;
-    --popover-foreground: 20 60% 10%;
+    --popover-foreground: 25 30% 15%;
 
-    /* Primary - Dark brown */
-    --primary: 20 60% 10%;
-    --primary-foreground: 0 0% 100%;
+    /* Primary - Rich brown */
+    --primary: 25 40% 20%;
+    --primary-foreground: 0 0% 98%;
 
-    /* Secondary - Light cream for muted sections */
-    --secondary: 35 35% 85%;
-    --secondary-foreground: 20 60% 10%;
+    /* Secondary - Subtle warm grey */
+    --secondary: 30 10% 92%;
+    --secondary-foreground: 25 30% 15%;
 
-    /* Muted - Light cream */
-    --muted: 35 35% 85%;
-    --muted-foreground: 25 25% 45%;
+    /* Muted - Light neutral */
+    --muted: 30 10% 92%;
+    --muted-foreground: 30 8% 50%;
 
-    /* Accent - Golden */
-    --accent: 45 85% 47%;
-    --accent-foreground: 0 0% 100%;
+    /* Accent - Muted bronze/copper (less yellow) */
+    --accent: 25 45% 45%;
+    --accent-foreground: 0 0% 98%;
     
-    /* Golden hover state */
-    --accent-hover: 45 85% 39%;
+    /* Accent hover state */
+    --accent-hover: 25 50% 38%;
 
-    /* Terracotta accent */
-    --terracotta: 10 60% 52%;
-    --terracotta-foreground: 0 0% 100%;
+    /* Terracotta accent - more muted */
+    --terracotta: 15 50% 48%;
+    --terracotta-foreground: 0 0% 98%;
 
     /* Natural green for success */
     --success: 145 35% 40%;
-    --success-foreground: 0 0% 100%;
+    --success-foreground: 0 0% 98%;
 
     /* Destructive */
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 0 0% 100%;
+    --destructive: 0 70% 55%;
+    --destructive-foreground: 0 0% 98%;
 
-    /* Border - Light cream border */
-    --border: 35 25% 80%;
-    --input: 35 25% 80%;
-    --ring: 45 85% 47%;
+    /* Border - Subtle neutral */
+    --border: 30 12% 88%;
+    --input: 30 12% 88%;
+    --ring: 25 45% 45%;
 
     --radius: 0.75rem;
 
@@ -76,41 +76,41 @@ All colors MUST be HSL.
   }
 
   .dark {
-    --background: 20 40% 12%;
-    --foreground: 35 45% 90%;
+    --background: 25 25% 12%;
+    --foreground: 30 15% 92%;
 
-    --card: 20 35% 15%;
-    --card-foreground: 35 45% 90%;
+    --card: 25 20% 16%;
+    --card-foreground: 30 15% 92%;
 
-    --popover: 20 35% 15%;
-    --popover-foreground: 35 45% 90%;
+    --popover: 25 20% 16%;
+    --popover-foreground: 30 15% 92%;
 
-    --primary: 35 45% 90%;
-    --primary-foreground: 20 60% 10%;
+    --primary: 30 15% 92%;
+    --primary-foreground: 25 40% 20%;
 
-    --secondary: 20 25% 25%;
-    --secondary-foreground: 35 45% 90%;
+    --secondary: 25 15% 22%;
+    --secondary-foreground: 30 15% 92%;
 
-    --muted: 20 25% 25%;
-    --muted-foreground: 35 20% 65%;
+    --muted: 25 15% 22%;
+    --muted-foreground: 30 10% 65%;
 
-    --accent: 45 85% 47%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 25 45% 45%;
+    --accent-foreground: 0 0% 98%;
     
-    --accent-hover: 45 85% 39%;
+    --accent-hover: 25 50% 38%;
 
-    --terracotta: 10 60% 52%;
-    --terracotta-foreground: 0 0% 100%;
+    --terracotta: 15 50% 48%;
+    --terracotta-foreground: 0 0% 98%;
 
     --success: 145 35% 40%;
-    --success-foreground: 0 0% 100%;
+    --success-foreground: 0 0% 98%;
 
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 35 45% 90%;
+    --destructive: 0 60% 40%;
+    --destructive-foreground: 30 15% 92%;
 
-    --border: 20 25% 25%;
-    --input: 20 25% 25%;
-    --ring: 45 85% 47%;
+    --border: 25 15% 22%;
+    --input: 25 15% 22%;
+    --ring: 25 45% 45%;
   }
 }
 
