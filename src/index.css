@@ -32,12 +32,12 @@ All colors MUST be HSL.
     --muted: 30 10% 92%;
     --muted-foreground: 30 8% 50%;
 
-    /* Accent - Muted bronze/copper (less yellow) */
-    --accent: 25 45% 45%;
+    /* Accent - Brand golden orange #D29202 */
+    --accent: 42 98% 42%;
     --accent-foreground: 0 0% 98%;
     
     /* Accent hover state */
-    --accent-hover: 25 50% 38%;
+    --accent-hover: 42 98% 35%;
 
     /* Terracotta accent - more muted */
     --terracotta: 15 50% 48%;
@@ -94,10 +94,10 @@ All colors MUST be HSL.
     --muted: 25 15% 22%;
     --muted-foreground: 30 10% 65%;
 
-    --accent: 25 45% 45%;
+    --accent: 42 98% 42%;
     --accent-foreground: 0 0% 98%;
     
-    --accent-hover: 25 50% 38%;
+    --accent-hover: 42 98% 35%;
 
     --terracotta: 15 50% 48%;
     --terracotta-foreground: 0 0% 98%;
